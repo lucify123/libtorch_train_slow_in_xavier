@@ -2,8 +2,7 @@ import time
 import torch
 import cv2
 import numpy as np
-from PIL import Image
-from torchvision import transforms
+
 DEVICE = "cuda"
 w, h = 768, 512
 
